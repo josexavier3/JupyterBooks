@@ -1,0 +1,89 @@
+# Preencher 'nb:' com o ficheiro de notebooks/MAI/ para cada problema.
+# Vazio = sem botão JupyterLite (mantém só o Colab).
+# Os candidatos do capítulo estão em comentário por baixo de cada aula.
+# Auto-preenchidos: 36  |  por confirmar: 10
+
+Au01:  # -> Ch01
+  - {p: 1, nb: MAI_Ch01_P1.ipynb}
+  - {p: 2, nb: MAI_Ch01_P2.ipynb}
+  - {p: 6, nb: }  # sem P6 exato em Ch01 -- confirmar
+  # candidatos (Ch01): MAI_Ch01_P1.ipynb, MAI_Ch01_P2.ipynb, MAI_Ch01_P3.ipynb
+
+Au02:  # -> Ch02
+  - {p: 2, nb: MAI_Ch02_P2.ipynb}
+  - {p: 3, nb: MAI_Ch02_P3.ipynb}
+  - {p: 4, nb: }  # sem P4 exato em Ch02 -- confirmar
+  # candidatos (Ch02): MAI_Ch02_P1.ipynb, MAI_Ch02_P10.ipynb, MAI_Ch02_P2.ipynb, MAI_Ch02_P3.ipynb, MAI_Ch02_P3___.ipynb, MAI_Ch02_P4___.ipynb, MAI_Ch02_P5___.ipynb, MAI_Ch02_P6.ipynb, MAI_Ch02_P7.ipynb, MAI_Ch02_P8.ipynb, MAI_Ch02_P9.ipynb
+
+Au03:  # -> Ch03
+  - {p: 1, nb: MAI_Ch03_P1.ipynb}
+  - {p: 2, nb: }  # sem P2 exato em Ch03 -- confirmar
+  - {p: 3, nb: MAI_Ch03_P3.ipynb}
+  # candidatos (Ch03): MAI_Ch03_P1.ipynb, MAI_Ch03_P10__.ipynb, MAI_Ch03_P11.ipynb, MAI_Ch03_P2__.ipynb, MAI_Ch03_P3.ipynb, MAI_Ch03_P4.ipynb, MAI_Ch03_P5___.ipynb, MAI_Ch03_P6.ipynb, MAI_Ch03_P7.ipynb, MAI_Ch03_P8___.ipynb, MAI_Ch03_P9.ipynb
+
+Au04:  # -> Ch03
+  - {p: 7, nb: MAI_Ch03_P7.ipynb}
+  - {p: 9, nb: MAI_Ch03_P9.ipynb}
+  - {p: 10, nb: }  # sem P10 exato em Ch03 -- confirmar
+  - {p: 11, nb: MAI_Ch03_P11.ipynb}
+  # candidatos (Ch03): MAI_Ch03_P1.ipynb, MAI_Ch03_P10__.ipynb, MAI_Ch03_P11.ipynb, MAI_Ch03_P2__.ipynb, MAI_Ch03_P3.ipynb, MAI_Ch03_P4.ipynb, MAI_Ch03_P5___.ipynb, MAI_Ch03_P6.ipynb, MAI_Ch03_P7.ipynb, MAI_Ch03_P8___.ipynb, MAI_Ch03_P9.ipynb
+
+Au05:  # -> Ch04
+  - {p: 2, nb: MAI_Ch04_P2.ipynb}
+  - {p: 3, nb: MAI_Ch04_P3.ipynb}
+  - {p: 5, nb: }  # sem P5 exato em Ch04 -- confirmar
+  - {p: 6, nb: MAI_Ch04_P6.ipynb}
+  - {p: 8, nb: }  # sem P8 exato em Ch04 -- confirmar
+  # candidatos (Ch04): MAI_Ch04_P1.ipynb, MAI_Ch04_P10.ipynb, MAI_Ch04_P11___.ipynb, MAI_Ch04_P12.ipynb, MAI_Ch04_P13.ipynb, MAI_Ch04_P2.ipynb, MAI_Ch04_P3.ipynb, MAI_Ch04_P4.ipynb, MAI_Ch04_P5___.ipynb, MAI_Ch04_P6.ipynb, MAI_Ch04_P7.ipynb, MAI_Ch04_P8___.ipynb, MAI_Ch04_P9.ipynb
+
+Au06:  # -> Ch05
+  - {p: 1, nb: MAI_Ch05_P1.ipynb}
+  - {p: 2, nb: MAI_Ch05_P2.ipynb}
+  - {p: 3, nb: MAI_Ch05_P3.ipynb}
+  - {p: 5, nb: MAI_Ch05_P5.ipynb}
+  # candidatos (Ch05): MAI_Ch05_P1.ipynb, MAI_Ch05_P2.ipynb, MAI_Ch05_P3.ipynb, MAI_Ch05_P4___.ipynb, MAI_Ch05_P5.ipynb, MAI_Ch05_P6.ipynb, MAI_Ch05_P7.ipynb, MAI_Ch05_P8.ipynb, MAI_Ch05_P9.ipynb
+
+Au07:  # -> Ch05
+  - {p: 6, nb: MAI_Ch05_P6.ipynb}
+  - {p: 7, nb: MAI_Ch05_P7.ipynb}
+  - {p: 8, nb: MAI_Ch05_P8.ipynb}
+  - {p: 4, nb: }  # sem P4 exato em Ch05 -- confirmar
+  - {p: 5, nb: MAI_Ch05_P5.ipynb}
+  # candidatos (Ch05): MAI_Ch05_P1.ipynb, MAI_Ch05_P2.ipynb, MAI_Ch05_P3.ipynb, MAI_Ch05_P4___.ipynb, MAI_Ch05_P5.ipynb, MAI_Ch05_P6.ipynb, MAI_Ch05_P7.ipynb, MAI_Ch05_P8.ipynb, MAI_Ch05_P9.ipynb
+
+Au08:  # -> Ch06
+  - {p: 7, nb: MAI_Ch06_P7.ipynb}
+  - {p: 9, nb: MAI_Ch06_P9.ipynb}
+  # candidatos (Ch06): MAI_Ch06_P10.ipynb, MAI_Ch06_P11.ipynb, MAI_Ch06_P1___.ipynb, MAI_Ch06_P2.ipynb, MAI_Ch06_P3___.ipynb, MAI_Ch06_P4.ipynb, MAI_Ch06_P5.ipynb, MAI_Ch06_P6___.ipynb, MAI_Ch06_P7.ipynb, MAI_Ch06_P8.ipynb, MAI_Ch06_P9.ipynb
+
+Au09:  # -> Ch07
+  - {p: 1, nb: MAI_Ch07_P1.ipynb}
+  - {p: 2, nb: MAI_Ch07_P2.ipynb}
+  - {p: 3, nb: MAI_Ch07_P3.ipynb}
+  # candidatos (Ch07): MAI_Ch07_P1.ipynb, MAI_Ch07_P2.ipynb, MAI_Ch07_P3.ipynb, MAI_Ch07_P4.ipynb, MAI_Ch07_P8.ipynb, MAI_Ch07_P9.ipynb
+
+Au10:  # -> Ch07
+  - {p: 8, nb: MAI_Ch07_P8.ipynb}
+  - {p: 11, nb: }  # sem P11 exato em Ch07 -- confirmar
+  # candidatos (Ch07): MAI_Ch07_P1.ipynb, MAI_Ch07_P2.ipynb, MAI_Ch07_P3.ipynb, MAI_Ch07_P4.ipynb, MAI_Ch07_P8.ipynb, MAI_Ch07_P9.ipynb
+
+Au11:  # -> Ch08
+  - {p: 1, nb: MAI_Ch08_P1.ipynb}
+  - {p: 2, nb: MAI_Ch08_P2.ipynb}
+  # candidatos (Ch08): MAI_Ch08_P1.ipynb, MAI_Ch08_P10.ipynb, MAI_Ch08_P11.ipynb, MAI_Ch08_P12___.ipynb, MAI_Ch08_P2.ipynb, MAI_Ch08_P3.ipynb, MAI_Ch08_P4.ipynb, MAI_Ch08_P5.ipynb, MAI_Ch08_P6___.ipynb, MAI_Ch08_P7.ipynb, MAI_Ch08_P8.ipynb, MAI_Ch08_P9___.ipynb
+
+Au12:  # -> Ch08
+  - {p: 4, nb: MAI_Ch08_P4.ipynb}
+  - {p: 5, nb: MAI_Ch08_P5.ipynb}
+  - {p: 8, nb: MAI_Ch08_P8.ipynb}
+  # candidatos (Ch08): MAI_Ch08_P1.ipynb, MAI_Ch08_P10.ipynb, MAI_Ch08_P11.ipynb, MAI_Ch08_P12___.ipynb, MAI_Ch08_P2.ipynb, MAI_Ch08_P3.ipynb, MAI_Ch08_P4.ipynb, MAI_Ch08_P5.ipynb, MAI_Ch08_P6___.ipynb, MAI_Ch08_P7.ipynb, MAI_Ch08_P8.ipynb, MAI_Ch08_P9___.ipynb
+
+Au13:  # -> Ch09
+  - {p: 1, nb: MAI_Ch09_P1.ipynb}
+  - {p: 2, nb: MAI_Ch09_P2.ipynb}
+  - {p: 2b, nb: }  # sem P2b exato em Ch09 -- confirmar
+  - {p: 3, nb: MAI_Ch09_P3.ipynb}
+  - {p: 4, nb: MAI_Ch09_P4.ipynb}
+  - {p: 5, nb: MAI_Ch09_P5.ipynb}
+  - {p: 7, nb: }  # sem P7 exato em Ch09 -- confirmar
+  # candidatos (Ch09): MAI_Ch09_P1.ipynb, MAI_Ch09_P2.ipynb, MAI_Ch09_P2_v2.ipynb, MAI_Ch09_P3.ipynb, MAI_Ch09_P4.ipynb, MAI_Ch09_P5.ipynb, MAI_Ch09_P6___.ipynb

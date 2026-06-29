@@ -1,0 +1,27 @@
+/* DEMI · personalizações partilhadas pelos livros (umbrella + UCs) */
+
+/* ── Botão de tema (claro/escuro) ─────────────────────────────────────────
+   Mostrar SEMPRE o ícone que espelha o tema ativo — sol no claro, lua no
+   escuro — e nunca o ícone "auto/sistema" (circle-half-stroke, que parecia
+   uma roda dentada). Mantém a função "auto" (segue o SO), só unifica o ícone. */
+.theme-switch-button .theme-switch[data-mode="auto"] { display: none !important; }
+
+/* Em modo auto, espelhar a preferência do sistema operativo. */
+@media (prefers-color-scheme: light) {
+  html[data-mode="auto"] .theme-switch-button .theme-switch[data-mode="light"] { display: inline !important; }
+}
+@media (prefers-color-scheme: dark) {
+  html[data-mode="auto"] .theme-switch-button .theme-switch[data-mode="dark"] { display: inline !important; }
+}
+/* Reforço, caso o tema resolvido seja exposto via data-theme. */
+html[data-mode="auto"][data-theme="light"] .theme-switch-button .theme-switch[data-mode="light"] { display: inline !important; }
+html[data-mode="auto"][data-theme="dark"]  .theme-switch-button .theme-switch[data-mode="dark"]  { display: inline !important; }
+
+/* ── Remover o botão de descarregar/imprimir (não necessário) ───────────── */
+.dropdown-download-buttons { display: none !important; }
+
+/* ── Remover a caixa e o ícone de pesquisa em todas as páginas ──────────── */
+.bd-search,
+form.bd-search,
+.search-button__button,
+.search-button-field { display: none !important; }
