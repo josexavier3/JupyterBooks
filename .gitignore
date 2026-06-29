@@ -1,0 +1,26 @@
+# ──────────────────────────────────────────────────────────────────────
+# Repo PÚBLICO = só o essencial (resoluções em Jupyter Notebook + README).
+#
+# Estratégia (whitelist): por defeito ignora-se TUDO na raiz; só se expõe
+# o essencial. Assim, qualquer ficheiro novo fica privado por defeito e
+# nada de maquinaria é publicado por acidente.
+#
+# Tudo o resto vive só no disco local: configs e geradores dos livros
+# (*/ipy2webbook/, _config.yml, _toc.yml, intro.md, logos), scripts de
+# build (build_all.sh, build_lite.sh, publish.sh, ...), jupyterlite/, e os
+# HTML gerados (_build/, _upload/). O site é construído localmente com
+# publish.sh e os HTML são enviados manualmente para
+# userweb.fct.unl.pt/~jmc.xavier (~/public_html).
+# ──────────────────────────────────────────────────────────────────────
+
+# Por defeito, ignora tudo na raiz do repo...
+/*
+
+# ...e expõe apenas o essencial:
+!/.gitignore
+!/README.md
+!/notebooks/
+
+# Dentro de notebooks/, não versionar lixo de execução:
+notebooks/**/.ipynb_checkpoints/
+notebooks/**/__pycache__/

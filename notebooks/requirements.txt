@@ -1,0 +1,19 @@
+# Pacotes que os NOTEBOOKS importam. Correm em Pyodide (no browser), não aqui.
+#
+# numpy, scipy, matplotlib, sympy e pandas JÁ vêm pré-empacotados no Pyodide:
+# basta `import numpy as np` no notebook — não é preciso instalar nada.
+#
+# Para um pacote que NÃO venha no Pyodide, adiciona-o aqui E, no notebook,
+# instala-o em runtime com:
+#
+#     %pip install nome-do-pacote
+#
+# (o %pip do JupyterLite usa o piplite e instala no browser).
+#
+# Esta lista serve sobretudo de documentação + para correr/testar os notebooks
+# localmente no venv de construção.
+numpy
+scipy
+matplotlib
+sympy
+pandas
