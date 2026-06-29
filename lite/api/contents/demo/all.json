@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-06-29T09:32:16.964795Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-29T09:30:36.470485Z",
+      "mimetype": null,
+      "name": "MSI_demo_tensao.ipynb",
+      "path": "demo/MSI_demo_tensao.ipynb",
+      "size": 2882,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-06-29T09:32:16.964795Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-06-29T09:32:16.964795Z",
+  "mimetype": null,
+  "name": "demo",
+  "path": "demo",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
