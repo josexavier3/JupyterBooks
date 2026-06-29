@@ -6,10 +6,7 @@ Coleção de resoluções de problemas propostos, com programação integrada em
 Notebook / JupyterLab* (kernel Python) e execução no navegador através do **Google
 Colab**.
 
-:::{admonition} Página oficial da Unidade Curricular
-:class: tip
-Ano letivo 2021/22 — [abrir no Guia da NOVA](https://guia.unl.pt/pt/2020/fct/program/982/course/10576#general-characterization)
-:::
+[UC · Guia da NOVA](https://guia.unl.pt/pt/2020/fct/program/982/course/10576#general-characterization) · <a href="Problemas_MAI.pdf">Caderno de problemas (PDF)</a>
 
 ## Como navegar
 
