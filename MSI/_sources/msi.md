@@ -1,10 +1,11 @@
 # Mecânica dos Sólidos I
 
-**Departamento de Engenharia Mecânica e Industrial** · Faculdade de Ciências e Tecnologia | FCT NOVA
+**Departamento de Engenharia Mecânica e Industrial** · NOVA School of Science &
+Technology · NOVA FCT
 
 Coleção de resoluções de problemas propostos, com programação integrada em *Jupyter
-Notebook / JupyterLab* (kernel Python) e execução no navegador através do **Google
-Colab**.
+Notebook / JupyterLab* (kernel Python), executável no navegador via **JupyterLite** ou no
+**Google Colab**.
 
 :::{admonition} Página oficial da Unidade Curricular
 :class: tip
