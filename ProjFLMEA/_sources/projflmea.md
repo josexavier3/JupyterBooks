@@ -4,4 +4,4 @@ A collection of worked problem sheets on fatigue and fracture mechanics, with Py
 programming integrated in *Jupyter Notebook / JupyterLab*, runnable in the browser via
 **JupyterLite** or **Google Colab**.
 
-[Problem book (PDF)](https://userweb.fct.unl.pt/~jmc.xavier/ProjFLMEA/PFLMEA_Exercices.pdf)
+<a href="PFLMEA_Exercices.pdf">Problem book (PDF)</a>
